@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/u-s-population-by-age-1850-2000",
+  "main": "b86509923dcd3deb@179.js",
+  "version": "179.0.0",
+  "homepage": "https://observablehq.com/@mbostock/u-s-population-by-age-1850-2000",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
